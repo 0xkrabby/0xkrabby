@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I am [krabby](https://x.com/0xkrabby)! 🦀
 
-<!--
-**0xkrabby/0xkrabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack engineer. in crypto since 2020. i build tools for decentralized identity, DAOs, and open ecosystems. i believe community payoff beats token payoff — that's not a fun fact, it's just how i see things.
 
-Here are some ideas to get you started:
+- 🔭 exploring AI + Web3 intersections
+- 🌱 learning account abstraction and intents
+- 💬 brainstorm with me about coordination, culture, tech
+- 📫 reach me on [X](https://x.com/0xkrabby)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**languages and tools:**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=social)&nbsp;&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
+![Foundry](https://img.shields.io/badge/-Foundry-black?logo=ethereum&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xkrabby.0xkrabby)
